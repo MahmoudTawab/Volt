@@ -1,0 +1,490 @@
+/* 
+  Localizable.strings
+  Volt
+
+  Created by Emojiios on 27/03/2022.
+  
+*/
+
+"lang" = "en";
+
+"Search" = "Search";
+
+"back" = "back";
+
+"Cancel" = "Cancel";
+
+"Close" = "Close";
+
+"Done" = "Done";
+
+"Try Again" = "Try Again";
+
+"Loading ...." = "Loading ....";
+
+"Pull more" = "Pull more...";
+
+"Updating" = "Updating...";
+
+"View All" = "View All";
+
+"Logout" = "Logout";
+
+"This item is out of stock!" = "This item is out of stock!";
+
+"Are You Sure You Want to log out of your account" = "Are You Sure You Want to log out of your account";
+
+"Something went wrong" = "Something went wrong";
+
+"The request timed out." = "The request timed out.";
+
+"Something went wrong while processing your request, please try again later" = "Something went wrong while processing your request, please try again later";
+
+"Tell Me" = "Tell Me";
+"out of stock" = "This item is out of stock! Let me know when this is available";
+
+
+////// FloatingTF
+
+"It can't be empty" = "It can't be empty";
+
+"Enter the email correctly" = "Enter the email correctly";
+
+"Password must be more than 6 elements" = "The password should be more than 6 characters";
+
+///// SignInController
+
+"Error" = "Error";
+
+"Success" = "Success";
+
+"Sign In" = "Sign In";
+
+"E-mail" = "E-mail";
+
+"Password" = "Password";
+
+"Complete Sign Up Information" = "Complete Sign Up Information";
+
+"Sign Up" = "Sign up";
+
+"Not a member yet?" = "Not a member yet?";
+
+"Forgot password?" = "Forgot password?";
+
+"   Google" = "   Google";
+
+"   Facebook" = "   Facebook";
+
+
+////// ResetPassword
+
+"Reset password" = "Reset password";
+
+"Forgot your password?" = "Forgot your password?";
+
+"Password Reset link" = "Password Reset link";
+
+"Password reset link has been successfully sent to your email" = "Password reset link has been successfully sent to your email";
+
+"Enter your email , to help you to reset your password." = "Enter your email , to help you to reset your password.";
+
+
+///// SignUpController
+
+"First Name" = "First Name";
+
+"Last Name" = "Last Name";
+
+"Phone numbe" = "Phone Number";
+
+"Select your country" = "Select your country";
+
+"Gender" = "Gender";
+
+"Male" = "Male";
+
+"FeMale" = "FeMale";
+
+"I agree to Terms of Service and Privacy Policy" = "I agree to Terms of Service and Privacy Policy";
+
+"Already a member?" = "Already a member?";
+
+
+////// OTPController
+
+"Verification Code" = "Verification Code";
+
+"Please enter the OTP that has been just sent to your mobile number" = "Please enter the OTP that has been just sent to your mobile number";
+
+"Edit Number" = "Edit Number";
+
+"OTP is not correct" = "OTP is not correct";
+
+"Validate" = "Validate";
+
+"sec" = "sec";
+
+"Resend OTP" = "Resend OTP";
+
+"The code will be resend in" = "The code will be resend in";
+
+"Thank you so much for taking the time to send this! Everyone here at Volt loves to know that our customers enjoy what we do" =
+"Thank you so much for taking the time to send this! Everyone here at Volt loves to know that our customers enjoy what we do";
+
+"Go Home" = "Go Home";
+
+//////  FPNTextField
+
+"The phone number should begin with 01" = "The phone number should begin with 01";
+
+
+///// TabBarController
+
+"Home" = "Home";
+
+"Categories" = "Categories";
+
+"Offers" = "Offers";
+
+"Menu" = "Menu";
+
+///// Menu
+
+"Profile" = "Profile";
+
+"My Orders" = "My Orders";
+
+"Installments Settings" = "Installments Settings";
+
+"Addresses" = "Addresses";
+
+"Wallet" = "Wallet";
+
+"Wishlist" = "Wishlist";
+
+"Compare" = "Compare";
+
+"Returns" = "Returns";
+
+"Recently Viewed" =  "Recently Viewed";
+
+"Help" = "Help";
+
+"AboutUs" = "AboutUs";
+
+"Contact Us" = "Contact Us";
+
+"Settings" = "Settings";
+
+"Log out" = "Log out";
+
+"Log In First" = "Log In First";
+
+"You are not logged in yet, please login first in order to continue" = "You are not logged in yet, please login first in order to continue";
+
+"Go LogIn" = "Go LogIn";
+
+
+////// Settings
+
+"Settings" = "Settings";
+
+"Language" = "Language";
+
+"Change Password" = "Change Password";
+
+"Notification Settings" = "Notification Settings";
+
+
+////// NotificationSettings
+
+"Notification Settings" = "Notification Settings";
+
+"Allow Notifications" = "Allow Notifications";
+
+"Newsletter Subscription" = "Newsletter Subscription";
+
+
+////// Language
+
+"Language" = "Language";
+
+"Arabic" = "Arabic";
+
+"English" = "English";
+
+
+// Change Password
+
+"Change Password" = "Change Password";
+
+"Current Password" = "Current Password";
+
+"New Password" = "New Password";
+
+"Update Password" = "Update Password";
+
+"Success Update Password" = "Success Update Password";
+
+
+///// ContactUsVC
+
+"Full name" = "Full name";
+
+"Message" = "Message";
+
+"Send Message" =  "Send Message";
+
+"Success Send Your Message" = "Success Send Your Message";
+
+
+///// ProfileVC , Edit ProfileVC
+
+"Edit Profile" = "Edit Profile";
+
+"Save Changes" = "Save Changes";
+
+"There is no change in the data" = "There is no change in the data";
+
+"Success Save Changes" = "Success Save Changes";
+
+
+////// WalletVC
+
+"Wallet Credit" = "  Wallet Credit: ";
+
+"EGP" = "EGP";
+
+"Wallet credit isn’t available for usage at the moment" = "  Wallet credit isn’t available for usage at the moment";
+
+
+////// AddressesVC
+
+"New Address" = "New Address";
+
+"＋ Add new address" = "＋ Add new address";
+
+"Add Address" = "Add Address";
+
+"Save Address" = "Save Address";
+
+"Proceed to summary" = "Proceed to summary";
+
+"Set as default shipping address" = "Set as default shipping address";
+
+"Edit Address" = "Edit Address";
+
+"Save Edit" = "Save Edit";
+
+"Warning" = "Warning";
+
+"Are You Sure You Want to Delete this Addresses" = "Are You Sure You Want to Delete this Addresses";
+
+"Delete" = "Delete";
+
+"Add new address" = "Add new address";
+
+"You haven’t added any places yet, add new places now" = "You haven’t added any places yet, add new places now";
+
+"You don’t have any added address yet" = "You don’t have any added address yet";
+
+///// AddAddressVC
+
+"Address" = "Address";
+
+"City" = "City";
+
+"Area" = "Area";
+
+"Street name" = "Street name";
+
+"Building number" = "Building number";
+
+"Floor number" = "Floor number";
+
+"Landmark" = "Landmark";
+
+"Refine Location" = "Refine Location";
+
+"Success Edit Address" = "Success Edit Address";
+
+"Success Add Addres" = "Success Add Addres";
+
+
+//////  AddNewAddress
+
+"Area name" = "Area name";
+
+"Confirm Location" = "Confirm Location";
+
+
+//////  CompareVC
+
+"Go Compare" = "Go Compare";
+
+"Compare" = "Compare";
+
+"No Products Found" = "No Products Found";
+
+"Differences" = "Differences";
+
+"Full Comparison" = "Full Comparison";
+
+"Warning Remove Compare" = "Warning Remove Compare";
+
+"You cannot compare two different items" =  "You cannot compare two different items";
+
+"No more than two items can be added to the comparison page" = "No more than two items can be added to the comparison page";
+
+"Are You Sure You Want to Delete this Item From Compare" = "Are You Sure You Want to Delete this Item From Compare";
+
+"You haven’t added any products to your compare list, shop now and add" = "You haven’t added any products to your compare list, shop now and add";
+
+
+// Cart
+
+"Cart" = "Cart";
+
+"items" = "items";
+
+"Subtotal" = "Subtotal";
+
+"Proceed to buy" = "Proceed to buy";
+
+"Warning Remove Cart" = "Warning Remove Cart";
+
+"Are You Sure You Want to Delete this Item From Cart" = "Are You Sure You Want to Delete this Item From Cart";
+
+"You haven’t added any products to your Cart list, shop now and add" = "You haven’t added any products to your Cart list, shop now and add";
+
+//////  ScanVC
+
+"Scan QR code" = "Scan QR code";
+
+"Scan QR" = "Scan QR";
+
+"Place the product QR code inside the camera, in order to scan it" = "Place the product QR code inside the camera, in order to scan it";
+
+"Copy" = "Copy";
+
+
+/////  ItemCategories
+
+"Filter" = "  Filter";
+
+"Sort" = "  Sort";
+
+"Popularity" = "Popularity";
+
+"High to Low Price" = "High to Low Price";
+
+"Low to High Price" = "Low to High Price";
+
+"Top Rating" = "Top Rating";
+
+////// FilterResultsVC
+
+"Filter Results" = "Filter Results";
+
+"Sub Categories" = "Sub Categories";
+
+"brand = Brand";
+
+"Price" = "Price";
+
+"Rate" = "Rate";
+
+"Color" = "Color";
+
+"Size" = "Size";
+
+"Reset" = "Reset";
+
+"Apply Filters" = "Apply Filters";
+
+"Products" = "Product";
+
+"To" = "To";
+
+
+/////  Product Details
+
+"Vendor" = "Vendor: ";
+
+"SKU" = "SKU: ";
+
+"Color" = "Color:";
+
+"Size" = "Size:";
+
+"Description" = "Description";
+
+"Specifications" = "Specifications";
+
+"Feature" = "Feature";
+
+"Description" = "Description";
+
+"Installments" = "Installments";
+
+"Reviews" = "Reviews";
+
+"Add to Cart" = "  Add to Cart";
+
+"Brand" = "Brand: ";
+
+"undefined" = "undefined";
+
+"unknown" = "unknown";
+
+"years Warranty" = "years Warranty";
+
+"Product Details" = "Product Details";
+
+"Add to Compare" = "  Add to Compare";
+
+"Remove Item" = " Remove Item";
+
+"Similar Products" =  "Similar Products";
+
+"Product Pictures" = "Product Pictures";
+
+"Fast Delivery & Free Return" = "Fast Delivery & Free Return";
+
+"Secure Payments & Pay on Delivery" = "Secure Payments & Pay on Delivery";
+
+"SuccessNotify" = "The request has been sent to the administration and you will be notified as soon as the product becomes available";
+
+"Item Reviews" = "Item Reviews";
+
+"AllReviews" = "View All  ";
+
+"Overall Rating" = "Overall Rating   ";
+
+
+////// Installments
+
+"Months" = "(Months)";
+
+"Installment" = "Installment";
+
+"Duration" = "Duration";
+
+"12 Months" = "12 Months";
+
+"24 Months" = "24 Months";
+
+"36 Months" = "36 Months";
+
+"48 Months" = "48 Months";
+
+///  StatusCodes
+ 
+"No Content" = "No Content";
+
+"Bad Request" = "Bad Request";
+
+"Unauthorized" = "Unauthorized";
+
+"Not Found" = "Not Found";

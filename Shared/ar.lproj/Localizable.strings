@@ -1,0 +1,482 @@
+/* 
+  Localizable.strings
+  Volt
+
+  Created by Emojiios on 27/03/2022.
+  
+*/
+
+"lang" = "ar";
+
+"Cancel" = "الغاء";
+
+"Search" = "بحث";
+
+"back" = "الى الخلف";
+
+"Close" = "أغلق";
+
+"Done" = "تم";
+
+"Try Again" = "حاول مجددآ";
+
+"Loading ...." = "جار التحميل ....";
+
+"Pull more" = "اسحب المزيد...";
+
+"Updating" = "جارٍ التحديث...";
+
+"View All" = "مشاهدة الكل";
+
+"Something went wrong" = "هناك خطأ ما";
+
+"The request timed out." = ".انتهت مهله الطلب";
+
+"Logout" = "تسجيل خروج";
+
+"This item is out of stock!" = "!هذا العنصر غير متوفر في المخزون";
+
+"Are You Sure You Want to log out of your account" = "هل أنت متأكد أنك تريد تسجيل الخروج من حسابك";
+
+"Something went wrong while processing your request, please try again later" = "حدث خطأ ما أثناء معالجة طلبك ، يرجى المحاولة مرة أخرى في وقت لاحق";
+
+"Tell Me" = "أخبرني";
+
+"out of stock" = "هذا العنصر غير متوفر في المخزون! دعني أخبرك عندما يصبح هذا متاحًا";
+
+////// FloatingTF
+
+"It can't be empty" = "لا يمكن أن تكون فارغة";
+
+"Enter the email correctly" = "أدخل البريد الإلكتروني بشكل صحيح";
+
+"Password must be more than 6 elements" = "يجب أن تكون كلمة المرور أكثر من 6 عناصر";
+
+
+///// SignInController
+
+"Error" = "خطأ";
+
+"Success" = "نجاح";
+
+"Sign In" = "تسجيل الدخول";
+
+"E-mail" = "بريد الالكتروني";
+
+"Password" = "كلمة المرور";
+
+"Complete Sign Up Information" = "أكمل معلومات التسجيل";
+
+"Sign Up" = "انشاء حساب";
+
+"Not a member yet?" = "لم تسجل الدخول بعد؟";
+
+"Forgot password?" = "هل نسيت كلمة السر؟";
+
+"   Google" = "   جوجل";
+
+"   Facebook" = "   فيسبوك";
+
+
+////// ResetPassword
+
+"Reset password" = "إعادة تعيين كلمة المرور";
+
+"Forgot your password?" = "نسيت رقمك السري؟";
+
+"Password Reset link" = "رابط إعادة تعيين كلمة المرور";
+
+"Password reset link has been successfully sent to your email" = "تم بنجاح إرسال رابط إعادة تعيين كلمة المرور إلى بريدك الإلكتروني";
+
+"Enter your email , to help you to reset your password." = "أدخل بريدك الإلكتروني لمساعدتك على إعادة تعيين كلمة المرور الخاصة بك.";
+
+///// SignUpController
+
+"First Name" = "الاسم الأول";
+
+"Last Name" = "اسم العائلة";
+
+"Phone numbe" = "رقم التليفون";
+
+"Select your country" = "اختر بلدك";
+
+"Gender" = "النوع";
+
+"Male" = "ذكر";
+
+"FeMale" = "أنثى";
+
+"I agree to Terms of Service and Privacy Policy" = "أوافق على شروط الخدمة وسياسة الخصوصية";
+
+"Already a member?" = "عضوا فعلا؟";
+
+
+////// OTPController
+
+"Verification Code" = "رمز التحقق";
+
+"Please enter the OTP that has been just sent to your mobile number" = "الرجاء إدخال كلمة المرور لمرة واحدة التي تم إرسالها للتو إلى رقم هاتفك المحمول";
+
+"Edit Number" = "تعديل الرقم";
+
+"OTP is not correct" = "رقم التحقق غير صحيح";
+
+"Validate" = "تحقق";
+
+"sec" = "ثانية";
+
+"Resend OTP" = "إعادة إرسال الرمز";
+
+"The code will be resend in" = "سيتم إرسال الرمز مرة أخرى بعد";
+
+"Thank you so much for taking the time to send this! Everyone here at Volt loves to know that our customers enjoy what we do" =
+"شكرًا جزيلاً على الوقت الذي قضيته في إرسال هذا! يحب الجميع هنا في Volt معرفة أن عملائنا يستمتعون بما نقوم به";
+
+"Go Home" = "الصفحه الرئيسيه";
+
+//////  FPNTextField
+
+"The phone number should begin with 01" = "يجب أن يبدأ رقم الهاتف بـ 01";
+
+
+///// TabBarController
+
+"Home" = "الصفحة الرئيسية";
+
+"Categories" = "الفئات";
+
+"Offers" = "عروض";
+
+"Menu" = "القائمة";
+
+///// Menu
+
+"Profile" = "الحساب الشخصي";
+
+"My Orders" = "طلباتي";
+
+"Installments Settings" = "إعدادات الأقساط";
+
+"Addresses" = "عناويني";
+
+"Wallet" = "محفظة النقود";
+
+"Wishlist" = "قائمة الرغبات";
+
+"Compare" = "قارن";
+
+"Returns" = "عائدات";
+
+"Recently Viewed" =  "شوهدت مؤخرا";
+
+"Help" = "مساعدة";
+
+"AboutUs" = "معلومات عنا";
+
+"Contact Us" = "اتصل بنا";
+
+"Settings" = "إعدادات";
+
+"Log out" = "تسجيل خروج";
+
+"Log In First" = "سجل الدخول أولا";
+
+"You are not logged in yet, please login first in order to continue" = "أنت لم تسجل الدخول بعد ، يرجى تسجيل الدخول أولاً للمتابعة";
+
+"Go LogIn" = "تسجيل الدخول";
+
+
+////// NotificationSettings
+
+"Notification Settings" = "إعدادات الإشعار";
+
+"Allow Notifications" = "السماح بالإشعارات";
+
+"Newsletter Subscription" = "الاشتراك في النشرة الإخبارية";
+
+
+////// Language
+
+"Language" = "لغة";
+
+"Arabic" = "عربي";
+
+"English" = "إنجليزي";
+
+
+// Change Password
+
+"Change Password" = "تغيير كلمة المرور";
+
+"Current Password" = "كلمة المرور الحالي";
+
+"New Password" = "كلمة مرور جديدة";
+
+"Update Password" = "تحديث كلمة المرور";
+
+"Success Update Password" = "نجاح تحديث كلمة المرور";
+
+
+///// ContactUsVC
+
+"Full name" = "الاسم الكامل";
+
+"Message" = "رسالة";
+
+"Send Message" =  "أرسل الرسالة";
+
+"Success Send Your Message" = "نجاح إرسال رسالتك";
+
+
+///// ProfileVC
+
+"Edit Profile" = "تعديل الملف الشخصي";
+
+"Save Changes" = "حفظ التغييرات";
+
+"There is no change in the data" = "لا يوجد تغيير في البيانات";
+
+"Success Save Changes" = "نجاح حفظ التغييرات";
+
+
+////// WalletVC
+
+"Wallet Credit" = "  رصيد المحفظة: ";
+
+"EGP" = "جنيه";
+
+"Wallet credit isn’t available for usage at the moment" = "  رصيد المحفظة غير متاح للاستخدام في الوقت الحالي";
+
+
+////// AddressesVC
+
+"New Address" = "عنوان جديد";
+
+"＋ Add new address" = "＋ إضافة عنوان جديد";
+
+"Add Address" = "اضف عنوان";
+
+"Save Address" = "حفظ العنوان";
+
+"Proceed to summary" = "العنوان المحدد";
+
+"Set as default shipping address" = "تعيين كعنوان شحن افتراضي";
+
+"Edit Address" = "تعديل العنوان";
+
+"Save Edit" = "حفظ التعديل";
+
+"Warning" = "تحذير";
+
+"Are You Sure You Want to Delete this Addresses" = "هل أنت متأكد أنك تريد حذف هذه العنوان";
+
+"Delete" = "حذف";
+
+"Add new address" = "أضف عنوان جديد";
+
+"No Content" = "لا يوجد محتوى";
+
+"You haven’t added any places yet, add new places now" = "لم تضف أي أماكن بعد ، أضف أماكن جديدة الآن";
+
+"You don’t have any added address yet" = "ليس لديك أي عنوان مضاف حتى الآن";
+
+///// AddAddressVC
+
+"Address" = "عنوان";
+
+"City" = "مدينة";
+
+"Area" = "منطقة";
+
+"Street name" = "اسم الشارع";
+
+"Building number" = "رقم المبنى";
+
+"Floor number" = "رقم الدور";
+
+"Landmark" = "نقطة استدلال";
+
+"Refine Location" = "تحديد الموقع";
+
+"Success Edit Address" = "نجاح تحديث العنوان";
+
+"Success Add Addres" = "نجاح إضافة العنوان";
+
+
+//////  AddNewAddress
+
+"Area name" = "اسم المنطقة";
+
+"Confirm Location" = "تأكيد الموقع";
+
+
+//////  CompareVC
+
+"Go Compare" = "افتح المقارنة";
+
+"Compare" = "قارن";
+
+"No Products Found" = "لا توجد منتجات";
+
+"Differences" = "اختلافات";
+
+"Full Comparison" = "مقارنة كاملة";
+
+"Warning Remove Compare" = "تحذير إزالة عنصر من المقارنه";
+
+"You cannot compare two different items" =  "لا يمكنك مقارنة عنصرين مختلفين";
+
+"No more than two items can be added to the comparison page" = "لا يمكن إضافة أكثر من عنصرين إلى صفحة المقارنة";
+
+"Are You Sure You Want to Delete this Item From Compare" = "هل أنت متأكد أنك تريد حذف هذا العنصر من المقارنة";
+
+"You haven’t added any products to your compare list, shop now and add" = "لم تقم بإضافة منتج هنا إلى قائمة المقارنة الخاصة بك ، تسوق الآن وقم بإضافته";
+
+
+// Cart
+
+"Cart" = "عربة التسوق";
+
+"items" = "عنصر";
+
+"Subtotal" = "المجموع";
+
+"Proceed to buy" = "تم اضافه";
+
+"Warning Remove Cart" = "تحذير إزالة من السلة";
+
+"Are You Sure You Want to Delete this Item From Cart" = "هل أنت متأكد أنك تريد حذف هذا العنصر من سلة التسوق";
+
+"You haven’t added any products to your Cart list, shop now and add" = "لم تضف أي منتجات إلى قائمة سلة التسوق الخاصة بك ، تسوق الآن وأضفها";
+
+
+//////  ScanVC
+
+"Scan QR code" = "مسح رمز الاستجابة السريعة";
+
+"Scan QR" = "رمز الاستجابة السريعة";
+
+"Place the product QR code inside the camera, in order to scan it" = "ضع رمز الاستجابة السريعة للمنتج داخل الكاميرا لمسحه ضوئيًا";
+
+"Copy" = "نسخ";
+
+
+/////  ItemCategories
+
+"Filter" = "  فلتر";
+
+"Sort" = "  رتب";
+
+"Popularity" = "الأكثر شعبيه";
+
+"High to Low Price" = "أعلي سعر";
+
+"Low to High Price" = "أقل سعر";
+
+"Top Rating" = "أفضل تقيم";
+
+
+////// FilterResultsVC
+
+"Filter Results" = "تصفية النتائج";
+
+"Sub Categories" = "الفئات الفرعية";
+
+"brand" = "الماركة";
+
+"Price" = "السعر";
+
+"Rate" = "تقييم المنتج";
+
+"Color" =  "اللون المنتج";
+
+"Size" = "احجام المنتج";
+
+"Reset" = "إعادة ضبط";
+
+"Apply Filters" = "تطبيق التصفية";
+
+"Products" = "منتج";
+
+"To" = "الي";
+
+
+/////  Product Details
+
+"Vendor" = "بائع : ";
+
+"SKU" = "مخزون المنتج";
+
+"Color" = "اللون : ";
+
+"Size" = "الحجم : ";
+
+"Description" = "وصف";
+
+"Specifications" = "مواصفات";
+
+"Feature" = "ميزة";
+
+"Description" = "وصف";
+
+"Installments" = "تقسيط";
+
+"Reviews" = "المراجعات";
+
+"Add to Cart" = "  أضف إلى السلة";
+
+"Brand" = "ماركة : ";
+
+"undefined" = "غير معرف";
+
+"unknown" = "مجهول";
+
+"years Warranty" = "سنوات الضمان";
+
+"Product Details" = "تفاصيل المنتج";
+
+"Add to Compare" = "  أضف للمقارنة";
+
+"Remove Item" = " إزالة العنصر";
+
+"Similar Products" =  "منتجات مماثلة";
+
+"Product Pictures" = "صور المنتج";
+
+"Fast Delivery & Free Return" = "توصيل سريع وارجاع مجاني";
+
+"Secure Payments & Pay on Delivery" = "المدفوعات الآمنة والدفع عند التسليم";
+
+"SuccessNotify" = "تم إرسال الطلب إلى الإدارة وسيتم إخطارك بمجرد توفر المنتج";
+
+"Item Reviews" = "مراجعات المنتج";
+
+"AllReviews" = "  مشاهدة الكل";
+
+"Overall Rating" = "تقييم عام   ";
+
+////// Installments
+
+"Months" = "(شهور)";
+
+"Installment" = "تقسيط";
+
+"Duration" = "المدة";
+
+"12 Months" = "١٢ شهر";
+
+"24 Months" = "٢٤ شهر";
+
+"36 Months" = "٣٦ شهر";
+
+"48 Months" = "٤٨ شهر";
+
+///  StatusCodes
+ 
+"No Content" = "لا يوجد محتوى";
+
+"Bad Request" = "اقتراح غير جيد";
+
+"Unauthorized" = "غير مصرح";
+
+"Not Found" = "لم يتم العثور";
